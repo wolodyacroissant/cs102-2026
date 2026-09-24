@@ -1,4 +1,4 @@
 """Модуль содержит функцию text, которая возвращает строку 'message'."""
 def text():
     """Функция возвращает строку 'message'."""
-    return 'message'
+    return "message"
